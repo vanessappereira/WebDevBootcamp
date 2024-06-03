@@ -1,2 +1,3 @@
-Section23_NodeJS/197_NPM/node_modules
-Section23_NodeJS/198_QRCodeGenerator/node_modules
+*node_modules
+/Section24_ExpressJsNodeJs/Backend/3.2 HTTP Requests/tasks.json
+.hintrc
