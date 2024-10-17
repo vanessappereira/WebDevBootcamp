@@ -22,7 +22,7 @@ const config = {
 
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.get("/", (req, res) => {
+app.get("/", (_req, res) => {
   res.render("index.ejs", { content: "Waiting for data..." });
 });
 
