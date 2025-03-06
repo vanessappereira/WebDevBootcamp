@@ -1,5 +1,6 @@
 # My ignored files
 .hintrc
+.vscode/
 
 #Github repo
 # Logs
